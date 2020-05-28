@@ -9,5 +9,5 @@ else
   #binding.pry
   array[-1] = "and" + array[-1]
   array.join(", ")
-  end 
+  end
 end
